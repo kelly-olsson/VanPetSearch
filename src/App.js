@@ -11,6 +11,7 @@ export default function App() {
     <Router>
       <div>
         <nav>
+          <p>Testing auto-deploy code changes</p>
           <ul>
             <li>
               <Link to="/">Home</Link>
