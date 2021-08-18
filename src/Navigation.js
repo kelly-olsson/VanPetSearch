@@ -5,9 +5,9 @@ function Navigation() {
     return (
         <nav>
             <ul>
-                <li><NavLink to='/'>Home</NavLink></li>
-                <li><NavLink to='/about'>About</NavLink></li>
-                <li><NavLink to='/search'>Search</NavLink></li>
+                <li><NavLink NavLink exact activeClassName="current" to='/'>Home</NavLink></li>
+                <li><NavLink NavLink exact activeClassName="current" to='/search'>Search</NavLink></li>
+                <li><NavLink NavLink exact activeClassName="current" to='/about'>About</NavLink></li>
             </ul>
         </nav>
     )
