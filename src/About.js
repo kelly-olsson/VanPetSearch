@@ -5,7 +5,7 @@ function About() {
         <div className='about'>
         <h1>Meet the Creator</h1>
         <p>Kelly Olsson is currently a student at the British Columbia Institute of Technology. 
-          She is the owner of two precocious cats and knows the fear and anxiety that comes 
+          She is the owner of two adventurous cats and knows the fear and anxiety that comes 
           with having a pet escape. When she came across the well-maintained online data that 
           Animal Control in the City of Vancouver keeps on animals, she came up
           with the idea of VanPetSearch.</p>
